@@ -18,6 +18,8 @@ https://supersimpledev.github.io/references/html-css-reference.pdf
 Exercise YouTube project to compare 
 https://supersimple.dev/exercises/youtube
 
+https://github.com/SuperSimpleDev/html-css-course-2022/tree/main/1-exercise-solutions/lesson-01
+
 More videos or on YouTube channel 
 
 https://supersimple.dev/ 
