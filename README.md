@@ -62,6 +62,9 @@ box-shadow: inset - inside of box
 
 css position 
 
+Review pdf
+https://supersimpledev.github.io/references/html-css-reference.pdf
+
 position fixed fix the element on browser window 
 position absolute fix the element on page
 
